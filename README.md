@@ -8,9 +8,6 @@
 </center>
 
  </font>
- 
- 
- 
 
 <center>
 ######veja um exemplo 
@@ -21,6 +18,9 @@
 
 ![foto](https://raw.githubusercontent.com/msnpy/DETECTA_IP/master/API_IP.png)
  
+
+
+<font color="green"> texto em verde </font>
  
 
 
