@@ -11,12 +11,7 @@
 
 </font>
 
-
-veja um exemplo [foto da ferramenta](https://raw.githubusercontent.com/msnpy/DETECTA_IP/master/API_IP.png).
-
-
-
- 
+![foto](https://raw.githubusercontent.com/msnpy/DETECTA_IP/master/API_IP.png)
  
  
 
