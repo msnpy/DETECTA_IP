@@ -1,12 +1,20 @@
 # DETECTA_IP
 
 
-
-
-<font color="#d608f7">
+<font color="gree">
 
 <center>
 <h1>ferramenta busca imformaçoes sobre ip ou site</h1> 
+</center>
+
+ </font>
+ 
+ 
+ 
+
+<center>
+######veja um exemplo 
+
 </center>
 
 </font>
