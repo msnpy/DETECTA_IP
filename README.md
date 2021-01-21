@@ -9,7 +9,13 @@
 <h1>ferramenta busca imformaçoes sobre ip ou site</h1> 
 </center>
 
- </font>
+</font>
+
+
+veja um exemplo [foto da ferramenta](https://raw.githubusercontent.com/msnpy/DETECTA_IP/master/API_IP.png).
+
+
+
  
  
  
